@@ -1,0 +1,14 @@
+{
+  "remote_agent_runtime_id": "projects/354674141034/locations/us-east1/reasoningEngines/7473527868551593984",
+  "deployment_target": "agent_runtime",
+  "is_a2a": true,
+  "agent_directory": "app",
+  "deployment_timestamp": "2026-09-29T10:01:56.297077+00:00",
+  "pending_operation": {
+    "operation_name": "projects/354674141034/locations/us-east1/reasoningEngines/1680069160404516864/operations/9019305633677049856",
+    "project": "qwiklabs-gcp-01-d95593bfa9d8",
+    "location": "us-east1",
+    "deployment_target": "agent_runtime",
+    "started_at": "2026-09-29T10:40:53.087894+00:00"
+  }
+}
